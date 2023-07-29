@@ -60,19 +60,33 @@ Communication
 
 ![Slack 로고](https://img.shields.io/badge/slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-##화면 구성
+## 화면 구성
 - index.html
+  
   ![main](https://github.com/DongHo-Kang/marvel_test/assets/90906531/66c6d595-99b2-40fd-be4e-868474250bf3)
+  
 - login.html
+  
   ![Untitled11](https://github.com/DongHo-Kang/marvel_test/assets/90906531/c6dfb9af-1467-4104-b315-9710280ead68)
+  
 - all_char.html
+  
   ![zxczc](https://github.com/DongHo-Kang/marvel_test/assets/90906531/d7f1c2a3-f0e5-4718-9a2a-0d1702137f45)
+  
 - all_char_result.html
+  
   ![Untitled (1)](https://github.com/DongHo-Kang/marvel_test/assets/90906531/a43a3002-08fc-458a-8ab7-37f4fd5ced3a)
+  
 - question.html
+  
   ![dsf](https://github.com/DongHo-Kang/marvel_test/assets/90906531/f7e97bcf-fc9f-4ac2-bbea-1f12f35aadde)
+  
 - result.html
+  
   ![Untitled (2)](https://github.com/DongHo-Kang/marvel_test/assets/90906531/d08d13f7-afa0-42f8-8e7c-2c930306c4bd)
+  
 - 카카오톡 공유하기
+  
   ![Untitled (3)](https://github.com/DongHo-Kang/marvel_test/assets/90906531/1f1399e3-16d3-487f-93f4-e9ae2a234bf2)
+
   ![111](https://github.com/DongHo-Kang/marvel_test/assets/90906531/dc5862f6-a245-4340-ab3e-42b5a4bf7b67)

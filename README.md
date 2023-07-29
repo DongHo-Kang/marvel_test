@@ -90,3 +90,14 @@ Communication
   ![Untitled (3)](https://github.com/DongHo-Kang/marvel_test/assets/90906531/1f1399e3-16d3-487f-93f4-e9ae2a234bf2)
 
   ![111](https://github.com/DongHo-Kang/marvel_test/assets/90906531/dc5862f6-a245-4340-ab3e-42b5a4bf7b67)
+
+## 주요 기능 및 활용
+- 질문지에 대한 답을 선택하여 MBTI 결과 및 그에 맞는 캐릭터 나옴
+- bootstrap를 활용한 CSS
+- 미디어 쿼리를 활용한 반응형 웹
+- 카카오API를 활용한 카카오 로그인 및 카카오톡 공유
+- Netlify를 활용한 배포
+
+## 개발 일지 및 Notion
+- [개발 일지](https://dongho-kang.tistory.com/30)
+- [노션 정리](https://standing-quart-92f.notion.site/Blue-Marvel-b87d58f98cfd40bcbaf27e4a7cb4a6b9?pvs=4)
